@@ -21,6 +21,4 @@ There are 11 tables that can be joined using unique IDs (schema to follow). More
 
 There are multiple avenues for exploration: EDA of the startup ecosystem. Tracking and analyzing investment trends over time Clustering VC funds based on their existing investments. Predicting which startup will proceed to raise further rounds / will get acquired / will file for an IPO. Mapping the network of individuals involved in the startup ecosystem.
 
-![1](https://user-images.githubusercontent.com/67734700/159257385-e3b75c5e-4d36-48f3-8c10-11e29ee99f85.png)
-
 
