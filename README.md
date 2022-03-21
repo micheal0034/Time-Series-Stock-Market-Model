@@ -1,2 +1,2 @@
-# Time-Series-Stock-Market-Model
+# Time-Series-Stock-Market-Aalysis
 Tracking investment trends over time
